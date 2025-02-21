@@ -1,3 +1,13 @@
+## 1.1.1
+
+- Android build updates for Flutter 3.29.0 (@defsub)
+  * Removed v1 plugin support to fix compile errors
+  * Updated to Kotlin 1.8.22, Grade
+  * Updated to Gradle 8.7.0
+  * Updated compileSdkVersion 34
+  * Dependency updates
+  * Example compiles and runs now
+
 ## 1.1.0
 
 - Update kotlin version to 1.5.31
