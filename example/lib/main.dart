@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:storage_space_fork/storage_space.dart';
+import 'package:storage_space_fork/storage_space_fork.dart';
 
 void main() {
   runApp(MyApp());
