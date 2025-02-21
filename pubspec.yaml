@@ -1,8 +1,8 @@
-name: storage_space
+name: storage_space_fork
 description: Get the free, available and total storage space for the device. Utility helpers for readable sizes
-version: 1.2.0
-homepage: https://github.com/flowmobile/storage_space
-repository: https://github.com/flowmobile/storage_space
+version: 1.1.2
+homepage: https://github.com/takeoutfm/storage_space
+repository: https://github.com/takeoutfm/storage_space
 
 environment:
   sdk: '>=2.12.0 <3.0.0'

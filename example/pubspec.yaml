@@ -13,7 +13,7 @@ dependencies:
   flutter:
     sdk: flutter
 
-  storage_space:
+  storage_space_fork:
     # When depending on this package from a real application you should use:
     #   storage_space: ^x.y.z
     # See https://dart.dev/tools/pub/dependencies#version-constraints

@@ -1,3 +1,7 @@
+## 1.1.2
+
+- Updated to publish as storage\_space\_fork
+
 ## 1.1.1
 
 - Android build updates for Flutter 3.29.0 (@defsub)
